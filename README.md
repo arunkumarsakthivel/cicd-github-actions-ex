@@ -1,2 +1,3 @@
-1. Create a Sprinboot project and add a one simple API
-2. 
+1. Create a Springboot project and add a one simple API
+2. Create a Workflow in Actions
+3. 
